@@ -5,6 +5,7 @@ import Header from "../Components/Header";
 import LargeCard from "../Components/LargeCard";
 import MeduimCards from "../Components/MeduimCards";
 import SmallCard from "../Components/SmallCard";
+import "../styles/globals.css";
 
 export default function Home({ exploreData, cardsData }) {
   return (
